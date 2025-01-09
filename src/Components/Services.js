@@ -37,7 +37,7 @@ export default function Example() {
                             </div>
                             <div className="flex flex-1 items-center justify-center px-8 max-lg:pb-12 max-lg:pt-10 sm:px-10 lg:pb-2">
                                 <img
-                                    className="w-2/3 max-lg:max-w-xs"
+                                    className="w-6/12 max-lg:max-w-xs"
                                     src="https://cdn-icons-png.flaticon.com/512/115/115804.png"
                                     alt=""
                                 />
@@ -57,7 +57,7 @@ export default function Example() {
                             </div>
                             <div className="flex flex-1 items-center justify-center px-8 max-lg:pb-12 max-lg:pt-10 sm:px-10 lg:pb-2">
                                 <img
-                                    className="w-2/3 max-lg:max-w-xs"
+                                    className="w-6/12 max-lg:max-w-xs"
                                     src="https://cdn-icons-png.flaticon.com/512/7075/7075373.png"
                                     // src="https://cdn-icons-png.flaticon.com/512/7214/7214094.png"
                                     alt=""
@@ -78,7 +78,7 @@ export default function Example() {
                             </div>
                             <div className="flex flex-1 items-center justify-center px-8 max-lg:pb-12 max-lg:pt-10 sm:px-10 lg:pb-2">
                                 <img
-                                    className="w-2/3 max-lg:max-w-xs"
+                                    className="w-6/12 max-lg:max-w-xs"
                                     src="https://cdn-icons-png.flaticon.com/512/103/103079.png"
                                     // src="https://cdn-icons-png.flaticon.com/512/5433/5433835.png"
                                     alt=""
