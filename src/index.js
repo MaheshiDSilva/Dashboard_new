@@ -3,11 +3,24 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Hero from './Components/Hero'
+import About from './Components/About'
+import Services from './Components/Services'
+import Contact from './Components/Contact'
+// import News from './Components/Newsletter'
+import Footer from './Components/Footer'
+import "remixicon/fonts/remixicon.css";
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    <Hero/>
+    <About/>
+    <Services/>
+    <Contact/>
+    {/* <News/> */}
+    <Footer/>
+    {/* <App /> */}
   </React.StrictMode>
 );
 
