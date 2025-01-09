@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Clone_Website/static/css/main.d2c7d5fb.css",
-    "main.js": "/Clone_Website/static/js/main.23f15745.js",
+    "main.css": "/Clone_Website/static/css/main.ba3a6c3b.css",
+    "main.js": "/Clone_Website/static/js/main.e6f280c0.js",
     "static/js/453.5e62124b.chunk.js": "/Clone_Website/static/js/453.5e62124b.chunk.js",
-    "static/media/image 4.png": "/Clone_Website/static/media/image 4.b78c557f205074ab7375.png",
-    "static/media/image 60.png": "/Clone_Website/static/media/image 60.43691c91b6f2f087a120.png",
-    "static/media/image 5.png": "/Clone_Website/static/media/image 5.f5b58192fd770af86d29.png",
-    "static/media/image 2.png": "/Clone_Website/static/media/image 2.cf1310488731d16becca.png",
-    "static/media/image 3.png": "/Clone_Website/static/media/image 3.d2ea9b1520c12c0d6848.png",
+    "static/media/remixicon.svg?t=1734404658139": "/Clone_Website/static/media/remixicon.df9902a6df13645438e1.svg",
+    "static/media/remixicon.eot?t=1734404658139": "/Clone_Website/static/media/remixicon.29066d810a74e994be27.eot",
+    "static/media/remixicon.ttf?t=1734404658139": "/Clone_Website/static/media/remixicon.868d1a768f4762dbcc3e.ttf",
+    "static/media/remixicon.woff?t=1734404658139": "/Clone_Website/static/media/remixicon.ce82bb240fef24f93f95.woff",
+    "static/media/remixicon.woff2?t=1734404658139": "/Clone_Website/static/media/remixicon.bb211d855a1864aa5b67.woff2",
     "index.html": "/Clone_Website/index.html",
-    "main.d2c7d5fb.css.map": "/Clone_Website/static/css/main.d2c7d5fb.css.map",
-    "main.23f15745.js.map": "/Clone_Website/static/js/main.23f15745.js.map",
+    "main.ba3a6c3b.css.map": "/Clone_Website/static/css/main.ba3a6c3b.css.map",
+    "main.e6f280c0.js.map": "/Clone_Website/static/js/main.e6f280c0.js.map",
     "453.5e62124b.chunk.js.map": "/Clone_Website/static/js/453.5e62124b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d2c7d5fb.css",
-    "static/js/main.23f15745.js"
+    "static/css/main.ba3a6c3b.css",
+    "static/js/main.e6f280c0.js"
   ]
 }
