@@ -1,7 +1,7 @@
 {
   "name": "component",
   "version": "0.1.0",
-  "homepage": "http://MaheshiDSilva.github.io/Clone_Website",
+  "homepage": "http://MaheshiDSilva.github.io/Dashboard_new",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",

@@ -84,10 +84,10 @@ export default function MilestonesDashboard() {
         {/* Top Panel */}
         <div className="flex justify-between items-center bg-[#1E3A5F] p-4">
           <div className="flex bg-[#1E3A5F] rounded-full border border-blue-500">
-            <div className="px-4 py-2 bg-[#1E90FF] text-white rounded-full">
+            <button className="px-4 py-2 bg-[#1E90FF] text-white rounded-full">
               All Projects
-            </div>
-            <div className="px-4 py-2 text-[#1E90FF]">My Activity</div>
+            </button>
+            <button className="px-4 py-2 text-[#1E90FF]">My Activity</button>
           </div>
           <div className="flex items-center gap-8 pr-3">
             <BsBell className="w-7 h-7 cursor-pointer text-white" />
